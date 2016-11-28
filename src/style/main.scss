@@ -7,11 +7,13 @@
 @import "helpers/mixins";
 @import "helpers/fonts";
 
-@import "helpers/media";
+
 
 // sections
 @import "sections/header";
 //@import "sections/footer";
+
+@import "helpers/media";
 
 // sprite (подключать в каждом файле, где используются иконки)
 //@import "../img/sprites/sprite";
